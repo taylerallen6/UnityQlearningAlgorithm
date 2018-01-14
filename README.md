@@ -11,7 +11,7 @@ This Q learning agent is built in Unity Game Engine. The Q learning agent code i
 To run this code, first install [Unity Game Engine](https://unity3d.com/). Then clone or download this repository. Open Unity and click OPEN. This could open up your file manager. Location the files from this repository and click to open the
 UnityQlearner1 folder into Unity.
 
-(NOTE: UnityQlearner1 is the name of the project. If you already have a project with that name, change the name of that folder in your file manager before opening it in Unity.)
+(NOTE: UnityQlearner1 is the name of the project. If you already have a Unity project with that name, change the name of that folder in your file manager before opening it in Unity.)
 
 ![](READMEcontent/UnityAddProjectImage.png)
 
